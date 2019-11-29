@@ -1,0 +1,32 @@
+[
+{
+"name":"111",
+"type":25,
+"ggxh":"fssd",
+"fzdd":17,
+"unit":"台",
+"price" : 100,
+"num" : 1,
+"total": 100
+},
+{
+"name":"111",
+"type":25,
+"ggxh":"fssd",
+"fzdd":17,
+"unit":"台",
+"price" : 100,
+"num" : 1,
+"total": 100
+},
+{
+"name":"111",
+"type":25,
+"ggxh":"fssd",
+"fzdd":17,
+"unit":"台",
+"price" : 100,
+"num" : 1,
+"total": 100
+}
+]
